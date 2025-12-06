@@ -20,3 +20,4 @@ C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race
 C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\_SharedLayer\obj\Debug\net8.0\refint\_SharedLayer.dll
 C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\_SharedLayer\obj\Debug\net8.0\_SharedLayer.pdb
 C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\_SharedLayer\obj\Debug\net8.0\ref\_SharedLayer.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\_SharedLayer\obj\Debug\net8.0\_SharedLayer.sourcelink.json

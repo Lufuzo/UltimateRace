@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("_RaceStateService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb54b4f6498e74e931af8be88d8771d7e76a470a")]
 [assembly: System.Reflection.AssemblyProductAttribute("_RaceStateService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("_RaceStateService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

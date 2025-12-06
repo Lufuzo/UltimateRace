@@ -16,30 +16,30 @@ namespace _RaceStateService.Services
         private readonly IHubContext<RaceHub> _hub;
         private readonly Random _random = new Random();
 
-        private bool raceRunning = false;
+        private bool raceRun= false;
 
         private readonly Scoreboard _scoreboard = new Scoreboard();
 
-        public RaceService(IHubContext<RaceHub> hub)
+        public RaceService(IHubContext<RaceHub> hubRace)
         {
-            _hub = hub;
+            _hub = hubRace;
         }
 
         public Scoreboard GetScoreboard() => _scoreboard;
 
         public void StartRace()
         {
-            raceRunning = true;
+            raceRun = true;
         }
 
         public void ResetRace()
         {
-            raceRunning = false;
+            raceRun = false;
 
-            _scoreboard.Bike = 0;
-            _scoreboard.Tesla = 0;
-            _scoreboard.Chopper = 0;
-            _scoreboard.Sub = 0;
+            _scoreboard.Bikeposition = 0;
+            _scoreboard.Teslapostion = 0;
+            _scoreboard.Chopperposition = 0;
+            _scoreboard.Subposition = 0;
             _scoreboard.Winner = null;
         }
 
@@ -54,7 +54,7 @@ namespace _RaceStateService.Services
             // Main broadcaster loop
             while (!stoppingToken.IsCancellationRequested)
             {
-                if (raceRunning)
+                if (raceRun)
                     CheckWinner();
 
                 // Push update to clients
@@ -68,8 +68,8 @@ namespace _RaceStateService.Services
         {
             while (!token.IsCancellationRequested)
             {
-                if (raceRunning && _scoreboard.Winner == null)
-                    _scoreboard.Bike += 20;
+                if (raceRun && _scoreboard.Winner == null)
+                    _scoreboard.Bikeposition += 20;
 
                 await Task.Delay(1000);
             }
@@ -79,8 +79,8 @@ namespace _RaceStateService.Services
         {
             while (!token.IsCancellationRequested)
             {
-                if (raceRunning && _scoreboard.Winner == null)
-                    _scoreboard.Tesla += 30;
+                if (raceRun && _scoreboard.Winner == null)
+                    _scoreboard.Teslapostion += 30;
 
                 await Task.Delay(1000);
             }
@@ -90,8 +90,8 @@ namespace _RaceStateService.Services
         {
             while (!token.IsCancellationRequested)
             {
-                if (raceRunning && _scoreboard.Winner == null)
-                    _scoreboard.Chopper += 25;
+                if (raceRun && _scoreboard.Winner == null)
+                    _scoreboard.Chopperposition += 25;
 
                 await Task.Delay(1000);
             }
@@ -101,8 +101,8 @@ namespace _RaceStateService.Services
         {
             while (!token.IsCancellationRequested)
             {
-                if (raceRunning && _scoreboard.Winner == null)
-                    _scoreboard.Sub += 18;
+                if (raceRun && _scoreboard.Winner == null)
+                    _scoreboard.Subposition += 18;
 
                 await Task.Delay(1000);
             }
@@ -112,13 +112,13 @@ namespace _RaceStateService.Services
         {
             if (_scoreboard.Winner != null) return;
 
-            if (_scoreboard.Bike >= _scoreboard.DistanceToWin)
+            if (_scoreboard.Bikeposition >= _scoreboard.DistanceToWin)
                 _scoreboard.Winner = "Bike";
-            if (_scoreboard.Tesla >= _scoreboard.DistanceToWin)
+            if (_scoreboard.Teslapostion >= _scoreboard.DistanceToWin)
                 _scoreboard.Winner = "Tesla";
-            if (_scoreboard.Chopper >= _scoreboard.DistanceToWin)
+            if (_scoreboard.Chopperposition >= _scoreboard.DistanceToWin)
                 _scoreboard.Winner = "Chopper";
-            if (_scoreboard.Sub >= _scoreboard.DistanceToWin)
+            if (_scoreboard.Subposition >= _scoreboard.DistanceToWin)
                 _scoreboard.Winner = "Nuclear Sub";
         }
     }   

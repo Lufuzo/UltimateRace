@@ -27,10 +27,10 @@
             </tr>
         </thead>
         <tbody>
-            <tr><td>Bike</td><td id="bike">0</td></tr>
-            <tr><td>Tesla</td><td id="tesla">0</td></tr>
-            <tr><td>Chopper</td><td id="chopper">0</td></tr>
-            <tr><td>Nuclear Sub</td><td id="sub">0</td></tr>
+        <tr><td>Bike</td><td id="bikeposition">0</td></tr>
+        <tr><td>Tesla</td><td id="teslapostion">0</td></tr>
+        <tr><td>Chopper</td><td id="chopperposition">0</td></tr>
+        <tr><td>Nuclear Sub</td><td id="subposition">0</td></tr>
         </tbody>
     </table>
 
@@ -41,11 +41,11 @@
             .withUrl("/racehub")
             .build();
 
-        connection.on("ReceiveUpdate", function (sb) {
-            document.getElementById("bike").innerText = sb.bike;
-            document.getElementById("tesla").innerText = sb.tesla;
-            document.getElementById("chopper").innerText = sb.chopper;
-            document.getElementById("sub").innerText = sb.sub;
+             connection.on("ReceiveUpdate", function (sb) {
+            document.getElementById("bikeposition").innerText = sb.bikeposition;
+            document.getElementById("teslapostion").innerText = sb.teslapostion;
+            document.getElementById("chopperposition").innerText = sb.chopperposition;
+           document.getElementById("subposition").innerText = sb.subposition;
 
             document.getElementById("winner").innerText = sb.winner
                 ? "🏆 Winner: " + sb.winner

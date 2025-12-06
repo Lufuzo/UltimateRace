@@ -92,3 +92,4 @@ C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race
 C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\UltimateRaceSolution.pdb
 C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\UltimateRaceSolution.genruntimeconfig.cache
 C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\ref\UltimateRaceSolution.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\UltimateRaceSolution.sourcelink.json
