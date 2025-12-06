@@ -1,0 +1,94 @@
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\appsettings.json
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\UltimateRaceSolution.staticwebassets.runtime.json
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\UltimateRaceSolution.staticwebassets.endpoints.json
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\UltimateRaceSolution.exe
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\UltimateRaceSolution.deps.json
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\UltimateRaceSolution.runtimeconfig.json
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\UltimateRaceSolution.dll
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\UltimateRaceSolution.pdb
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\_RaceStateService.dll
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\_SharedLayer.dll
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\_RaceStateService.pdb
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\_SharedLayer.pdb
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\UltimateRaceSolution.csproj.AssemblyReference.cache
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\UltimateRaceSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\UltimateRaceSolution.AssemblyInfoInputs.cache
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\UltimateRaceSolution.AssemblyInfo.cs
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\UltimateRaceSolution.csproj.CoreCompileInputs.cache
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\UltimateRaceSolution.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\UltimateRaceSolution.RazorAssemblyInfo.cache
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\UltimateRaceSolution.RazorAssemblyInfo.cs
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\scopedcss\bundle\UltimateRaceSolution.styles.css
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\scopedcss\projectbundle\UltimateRaceSolution.bundle.scp.css
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\Ultimate.43609F46.Up2Date
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\UltimateRaceSolution.dll
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\refint\UltimateRaceSolution.dll
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\UltimateRaceSolution.pdb
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\UltimateRaceSolution.genruntimeconfig.cache
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\ref\UltimateRaceSolution.dll
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\appsettings.json
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\UltimateRaceSolution.staticwebassets.endpoints.json
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\UltimateRaceSolution.staticwebassets.runtime.json
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\UltimateRaceSolution.exe
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\UltimateRaceSolution.deps.json
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\UltimateRaceSolution.runtimeconfig.json
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\UltimateRaceSolution.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\UltimateRaceSolution.pdb
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\_RaceStateService.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\_SharedLayer.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\_RaceStateService.pdb
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\bin\Debug\net8.0\_SharedLayer.pdb
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\UltimateRaceSolution.csproj.AssemblyReference.cache
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\UltimateRaceSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\UltimateRaceSolution.AssemblyInfoInputs.cache
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\UltimateRaceSolution.AssemblyInfo.cs
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\UltimateRaceSolution.csproj.CoreCompileInputs.cache
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\UltimateRaceSolution.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\UltimateRaceSolution.RazorAssemblyInfo.cache
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\UltimateRaceSolution.RazorAssemblyInfo.cs
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\scopedcss\bundle\UltimateRaceSolution.styles.css
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\scopedcss\projectbundle\UltimateRaceSolution.bundle.scp.css
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\Ultimate.43609F46.Up2Date
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\UltimateRaceSolution.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\refint\UltimateRaceSolution.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\UltimateRaceSolution.pdb
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\UltimateRaceSolution.genruntimeconfig.cache
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\UltimateRaceSolution\obj\Debug\net8.0\ref\UltimateRaceSolution.dll

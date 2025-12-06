@@ -1,0 +1,30 @@
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\_RaceStateService\bin\Debug\net8.0\_RaceStateService.deps.json
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\_RaceStateService\bin\Debug\net8.0\_RaceStateService.dll
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\_RaceStateService\bin\Debug\net8.0\_RaceStateService.pdb
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\_RaceStateService\bin\Debug\net8.0\_SharedLayer.dll
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\_RaceStateService\bin\Debug\net8.0\_SharedLayer.pdb
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\_RaceStateService\obj\Debug\net8.0\_RaceStateService.csproj.AssemblyReference.cache
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\_RaceStateService\obj\Debug\net8.0\_RaceStateService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\_RaceStateService\obj\Debug\net8.0\_RaceStateService.AssemblyInfoInputs.cache
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\_RaceStateService\obj\Debug\net8.0\_RaceStateService.AssemblyInfo.cs
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\_RaceStateService\obj\Debug\net8.0\_RaceStateService.csproj.CoreCompileInputs.cache
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\_RaceStateService\obj\Debug\net8.0\_RaceSta.4CC8F5D4.Up2Date
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\_RaceStateService\obj\Debug\net8.0\_RaceStateService.dll
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\_RaceStateService\obj\Debug\net8.0\refint\_RaceStateService.dll
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\_RaceStateService\obj\Debug\net8.0\_RaceStateService.pdb
+C:\Users\Lungelo Mbalane\Downloads\The Ultimate Race\_RaceStateService\obj\Debug\net8.0\ref\_RaceStateService.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\_RaceStateService\bin\Debug\net8.0\_RaceStateService.deps.json
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\_RaceStateService\bin\Debug\net8.0\_RaceStateService.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\_RaceStateService\bin\Debug\net8.0\_RaceStateService.pdb
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\_RaceStateService\bin\Debug\net8.0\_SharedLayer.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\_RaceStateService\bin\Debug\net8.0\_SharedLayer.pdb
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\_RaceStateService\obj\Debug\net8.0\_RaceStateService.csproj.AssemblyReference.cache
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\_RaceStateService\obj\Debug\net8.0\_RaceStateService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\_RaceStateService\obj\Debug\net8.0\_RaceStateService.AssemblyInfoInputs.cache
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\_RaceStateService\obj\Debug\net8.0\_RaceStateService.AssemblyInfo.cs
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\_RaceStateService\obj\Debug\net8.0\_RaceStateService.csproj.CoreCompileInputs.cache
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\_RaceStateService\obj\Debug\net8.0\_RaceSta.4CC8F5D4.Up2Date
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\_RaceStateService\obj\Debug\net8.0\_RaceStateService.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\_RaceStateService\obj\Debug\net8.0\refint\_RaceStateService.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\_RaceStateService\obj\Debug\net8.0\_RaceStateService.pdb
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\The Ultimate Race\_RaceStateService\obj\Debug\net8.0\ref\_RaceStateService.dll

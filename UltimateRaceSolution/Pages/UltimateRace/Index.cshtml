@@ -1,0 +1,73 @@
+﻿@page
+@using _SharedLayer.Models
+
+@model UltimateRaceSolution.Pages.UltimateRace.IndexModel
+@{
+    ViewData["Title"] = "Ultimate Race";
+}
+
+    <h1>🚀 Ultimate Race – Live Dashboard</h1>
+    <h2>Travel from Cairo to Cape Town.</h2>
+    <h3></h3>
+
+    <div style="margin-bottom:20px;">
+        <button class="btn btn-success" onclick="startRace()">Start Race</button>
+        <button class="btn btn-danger" onclick="resetRace()">Reset Race</button>
+    </div>
+
+    <div id="raceState" style="font-size: 1.5rem; font-weight: bold;"></div>
+
+    <h2 id="winner" style="color: green;"></h2>
+
+    <table class="table table-bordered" id="scoreTable">
+        <thead>
+            <tr>
+                <th>Vehicle</th>
+                <th>Distance (km)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>Bike</td><td id="bike">0</td></tr>
+            <tr><td>Tesla</td><td id="tesla">0</td></tr>
+            <tr><td>Chopper</td><td id="chopper">0</td></tr>
+            <tr><td>Nuclear Sub</td><td id="sub">0</td></tr>
+        </tbody>
+    </table>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/8.0.0/signalr.min.js"></script>
+
+    <script>
+        const connection = new signalR.HubConnectionBuilder()
+            .withUrl("/racehub")
+            .build();
+
+        connection.on("ReceiveUpdate", function (sb) {
+            document.getElementById("bike").innerText = sb.bike;
+            document.getElementById("tesla").innerText = sb.tesla;
+            document.getElementById("chopper").innerText = sb.chopper;
+            document.getElementById("sub").innerText = sb.sub;
+
+            document.getElementById("winner").innerText = sb.winner
+                ? "🏆 Winner: " + sb.winner
+                : "";
+        });
+
+        connection.on("RaceState", function (state) {
+            if (state === "started")
+                document.getElementById("raceState").innerText = "Race Started!";
+            if (state === "reset")
+                document.getElementById("raceState").innerText = "Race Reset!";
+        });
+
+        connection.start().catch(err => console.error(err));
+
+        // Button functions
+        function startRace() {
+            connection.invoke("StartRace");
+        }
+        function resetRace() {
+            connection.invoke("ResetRace");
+        }
+    </script>
+    
+

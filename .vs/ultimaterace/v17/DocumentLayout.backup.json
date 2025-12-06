@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4960867B-5AB7-4F99-9609-F7A440A4405C}|UltimateRaceSolution\\UltimateRaceSolution.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\the ultimate race\\ultimateracesolution\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4960867B-5AB7-4F99-9609-F7A440A4405C}|UltimateRaceSolution\\UltimateRaceSolution.csproj|solutionrelative:ultimateracesolution\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4960867B-5AB7-4F99-9609-F7A440A4405C}|UltimateRaceSolution\\UltimateRaceSolution.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\the ultimate race\\ultimateracesolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4960867B-5AB7-4F99-9609-F7A440A4405C}|UltimateRaceSolution\\UltimateRaceSolution.csproj|solutionrelative:ultimateracesolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF02B3E-59A1-4AE6-9884-3E783ADA31EE}|ultimaterace\\ultimaterace.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\the ultimate race\\ultimaterace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF02B3E-59A1-4AE6-9884-3E783ADA31EE}|ultimaterace\\ultimaterace.csproj|solutionrelative:ultimaterace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4960867B-5AB7-4F99-9609-F7A440A4405C}|UltimateRaceSolution\\UltimateRaceSolution.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\the ultimate race\\ultimateracesolution\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4960867B-5AB7-4F99-9609-F7A440A4405C}|UltimateRaceSolution\\UltimateRaceSolution.csproj|solutionrelative:ultimateracesolution\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4960867B-5AB7-4F99-9609-F7A440A4405C}|UltimateRaceSolution\\UltimateRaceSolution.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\the ultimate race\\ultimateracesolution\\pages\\ultimaterace\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4960867B-5AB7-4F99-9609-F7A440A4405C}|UltimateRaceSolution\\UltimateRaceSolution.csproj|solutionrelative:ultimateracesolution\\pages\\ultimaterace\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8053B1C-C115-4188-84F4-BAAEFE212A06}|_RaceStateService\\_RaceStateService.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\the ultimate race\\_racestateservice\\services\\raceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8053B1C-C115-4188-84F4-BAAEFE212A06}|_RaceStateService\\_RaceStateService.csproj|solutionrelative:_racestateservice\\services\\raceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB44F5A8-C93B-4A62-AEC2-514CF4FC9054}|_SharedLayer\\_SharedLayer.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\the ultimate race\\_sharedlayer\\models\\scoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB44F5A8-C93B-4A62-AEC2-514CF4FC9054}|_SharedLayer\\_SharedLayer.csproj|solutionrelative:_sharedlayer\\models\\scoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF02B3E-59A1-4AE6-9884-3E783ADA31EE}|ultimaterace\\ultimaterace.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\the ultimate race\\ultimaterace\\scoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF02B3E-59A1-4AE6-9884-3E783ADA31EE}|ultimaterace\\ultimaterace.csproj|solutionrelative:ultimaterace\\scoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4960867B-5AB7-4F99-9609-F7A440A4405C}|UltimateRaceSolution\\UltimateRaceSolution.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\the ultimate race\\ultimateracesolution\\wwwroot\\js\\race.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4960867B-5AB7-4F99-9609-F7A440A4405C}|UltimateRaceSolution\\UltimateRaceSolution.csproj|solutionrelative:ultimateracesolution\\wwwroot\\js\\race.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB44F5A8-C93B-4A62-AEC2-514CF4FC9054}|_SharedLayer\\_SharedLayer.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\the ultimate race\\_sharedlayer\\_sharedlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB44F5A8-C93B-4A62-AEC2-514CF4FC9054}|_SharedLayer\\_SharedLayer.csproj|solutionrelative:_sharedlayer\\_sharedlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8053B1C-C115-4188-84F4-BAAEFE212A06}|_RaceStateService\\_RaceStateService.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\the ultimate race\\_racestateservice\\services\\iraceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8053B1C-C115-4188-84F4-BAAEFE212A06}|_RaceStateService\\_RaceStateService.csproj|solutionrelative:_racestateservice\\services\\iraceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB44F5A8-C93B-4A62-AEC2-514CF4FC9054}|_SharedLayer\\_SharedLayer.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\the ultimate race\\_sharedlayer\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB44F5A8-C93B-4A62-AEC2-514CF4FC9054}|_SharedLayer\\_SharedLayer.csproj|solutionrelative:_sharedlayer\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF02B3E-59A1-4AE6-9884-3E783ADA31EE}|ultimaterace\\ultimaterace.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\the ultimate race\\ultimaterace\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF02B3E-59A1-4AE6-9884-3E783ADA31EE}|ultimaterace\\ultimaterace.csproj|solutionrelative:ultimaterace\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4960867B-5AB7-4F99-9609-F7A440A4405C}|UltimateRaceSolution\\UltimateRaceSolution.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\the ultimate race\\ultimateracesolution\\pages\\ultimaterace\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4960867B-5AB7-4F99-9609-F7A440A4405C}|UltimateRaceSolution\\UltimateRaceSolution.csproj|solutionrelative:ultimateracesolution\\pages\\ultimaterace\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8053B1C-C115-4188-84F4-BAAEFE212A06}|_RaceStateService\\_RaceStateService.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\the ultimate race\\_racestateservice\\hubs\\racehub .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8053B1C-C115-4188-84F4-BAAEFE212A06}|_RaceStateService\\_RaceStateService.csproj|solutionrelative:_racestateservice\\hubs\\racehub .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF02B3E-59A1-4AE6-9884-3E783ADA31EE}|ultimaterace\\ultimaterace.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\the ultimate race\\ultimaterace\\ultimaterace.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3AF02B3E-59A1-4AE6-9884-3E783ADA31EE}|ultimaterace\\ultimaterace.csproj|solutionrelative:ultimaterace\\ultimaterace.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8053B1C-C115-4188-84F4-BAAEFE212A06}|_RaceStateService\\_RaceStateService.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\the ultimate race\\_racestateservice\\_racestateservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8053B1C-C115-4188-84F4-BAAEFE212A06}|_RaceStateService\\_RaceStateService.csproj|solutionrelative:_racestateservice\\_racestateservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\ultimaterace\\Program.cs",
+              "RelativeDocumentMoniker": "ultimaterace\\Program.cs",
+              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\ultimaterace\\Program.cs",
+              "RelativeToolTip": "ultimaterace\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAApwIwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T09:14:01.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\UltimateRaceSolution\\Pages\\UltimateRace\\Index.cshtml",
+              "RelativeDocumentMoniker": "UltimateRaceSolution\\Pages\\UltimateRace\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\UltimateRaceSolution\\Pages\\UltimateRace\\Index.cshtml",
+              "RelativeToolTip": "UltimateRaceSolution\\Pages\\UltimateRace\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T03:20:54.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\UltimateRaceSolution\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "UltimateRaceSolution\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\UltimateRaceSolution\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "UltimateRaceSolution\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T04:46:47.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "race.js",
+              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\UltimateRaceSolution\\wwwroot\\js\\race.js",
+              "RelativeDocumentMoniker": "UltimateRaceSolution\\wwwroot\\js\\race.js",
+              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\UltimateRaceSolution\\wwwroot\\js\\race.js",
+              "RelativeToolTip": "UltimateRaceSolution\\wwwroot\\js\\race.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-04T06:11:23.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRaceService.cs",
+              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\_RaceStateService\\Services\\IRaceService.cs",
+              "RelativeDocumentMoniker": "_RaceStateService\\Services\\IRaceService.cs",
+              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\_RaceStateService\\Services\\IRaceService.cs",
+              "RelativeToolTip": "_RaceStateService\\Services\\IRaceService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:55:57.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\UltimateRaceSolution\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "UltimateRaceSolution\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\UltimateRaceSolution\\Pages\\Index.cshtml",
+              "RelativeToolTip": "UltimateRaceSolution\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T03:18:07.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ultimaterace.csproj",
+              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\ultimaterace\\ultimaterace.csproj",
+              "RelativeDocumentMoniker": "ultimaterace\\ultimaterace.csproj",
+              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\ultimaterace\\ultimaterace.csproj",
+              "RelativeToolTip": "ultimaterace\\ultimaterace.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-02T10:54:15.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\UltimateRaceSolution\\Program.cs",
+              "RelativeDocumentMoniker": "UltimateRaceSolution\\Program.cs",
+              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\UltimateRaceSolution\\Program.cs",
+              "RelativeToolTip": "UltimateRaceSolution\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T19:15:17.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RaceService.cs",
+              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\_RaceStateService\\Services\\RaceService.cs",
+              "RelativeDocumentMoniker": "_RaceStateService\\Services\\RaceService.cs",
+              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\_RaceStateService\\Services\\RaceService.cs",
+              "RelativeToolTip": "_RaceStateService\\Services\\RaceService.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAADwv2MAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T11:51:17.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Scoreboard.cs",
+              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\ultimaterace\\Scoreboard.cs",
+              "RelativeDocumentMoniker": "ultimaterace\\Scoreboard.cs",
+              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\ultimaterace\\Scoreboard.cs",
+              "RelativeToolTip": "ultimaterace\\Scoreboard.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:38:09.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\UltimateRaceSolution\\Pages\\UltimateRace\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "UltimateRaceSolution\\Pages\\UltimateRace\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\UltimateRaceSolution\\Pages\\UltimateRace\\Index.cshtml.cs",
+              "RelativeToolTip": "UltimateRaceSolution\\Pages\\UltimateRace\\Index.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T03:57:14.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RaceHub .cs",
+              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\_RaceStateService\\Hubs\\RaceHub .cs",
+              "RelativeDocumentMoniker": "_RaceStateService\\Hubs\\RaceHub .cs",
+              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\_RaceStateService\\Hubs\\RaceHub .cs",
+              "RelativeToolTip": "_RaceStateService\\Hubs\\RaceHub .cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T05:08:03.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\_SharedLayer\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "_SharedLayer\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\_SharedLayer\\Models\\Vehicle.cs",
+              "RelativeToolTip": "_SharedLayer\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:59:07.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Scoreboard.cs",
+              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\_SharedLayer\\Models\\Scoreboard.cs",
+              "RelativeDocumentMoniker": "_SharedLayer\\Models\\Scoreboard.cs",
+              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\_SharedLayer\\Models\\Scoreboard.cs",
+              "RelativeToolTip": "_SharedLayer\\Models\\Scoreboard.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:39:02.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_RaceStateService.csproj",
+              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\_RaceStateService\\_RaceStateService.csproj",
+              "RelativeDocumentMoniker": "_RaceStateService\\_RaceStateService.csproj",
+              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\_RaceStateService\\_RaceStateService.csproj",
+              "RelativeToolTip": "_RaceStateService\\_RaceStateService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-02T15:04:57.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_SharedLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\_SharedLayer\\_SharedLayer.csproj",
+              "RelativeDocumentMoniker": "_SharedLayer\\_SharedLayer.csproj",
+              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\_SharedLayer\\_SharedLayer.csproj",
+              "RelativeToolTip": "_SharedLayer\\_SharedLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-02T18:02:58.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\ultimaterace\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ultimaterace\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\The Ultimate Race\\ultimaterace\\Vehicle.cs",
+              "RelativeToolTip": "ultimaterace\\Vehicle.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:38:40.605Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
